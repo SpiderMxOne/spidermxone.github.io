@@ -1,2 +1,2 @@
 # spidermxone.github.io
-play store
+Sitio para Play Store
